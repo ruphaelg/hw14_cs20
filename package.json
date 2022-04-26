@@ -1,5 +1,19 @@
 {
-  "dependencies": {
-    "mongodb": "^4.5.0"
-  }
+  "name": "HW14",
+  "version": "1.0.0",
+  "description": "Stock Ticker",
+  "main": "findStock.js",
+  "scripts": {
+  "start": "node findStock.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
 }
